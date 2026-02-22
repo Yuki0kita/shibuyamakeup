@@ -1,3 +1,5 @@
+basePath: "/shibuyamakeup",  // コメントを外して値を設定
+  
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
