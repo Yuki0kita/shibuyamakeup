@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   output: "export",
   // basePath は GitHub Pages のリポジトリ名に合わせて変更してください
   // 例: https://username.github.io/repo-name の場合は "/repo-name"
-  // basePath: "/shibuyamakeup",
+  basePath: "/shibuyamakeup",
   images: {
     unoptimized: true,
   },
